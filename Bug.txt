@@ -11,6 +11,6 @@ Action Performed:
 4.Scroll down and click the "Przyszłość w diagnostyce raka płuca - #SolutionsForFusions" text
 5.Scroll down and click the "Czytaj więcej" blue button
 
-Expected result: We should see more information about the thing we chose above the button
+Expected result: We should see more information about the thing we chose above the button.
 
-Actual result: The button doesn't respond and nothing more is seen
+Actual result: The button doesn't respond and nothing more is seen.
