@@ -1,1 +1,1 @@
-# Bug_report Reporting some bugs while using Mrbuggy.pl
+Bugs reported while using Mrbuggy.pl
