@@ -1,1 +1,1 @@
-Bugs reported while using Mrbuggy.pl
+Bugs reported while using Mrbuggy7 application.
